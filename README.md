@@ -47,6 +47,11 @@ php artisan key:generate
 ```
 php artisan filament:upgrade
 ```
+### create database sqlite
+
+```
+touch database/database.sqlite
+```
 
 ### Run migrations
 
